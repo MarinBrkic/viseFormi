@@ -1,0 +1,6 @@
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.FormStudenti.resources
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.FormUnosNovogStudenta.resources
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\rad_sa_vise_formi\rad_sa_vise_formi\obj\Debug\rad_sa_vise_formi.csproj.CoreCompileInputs.cache
